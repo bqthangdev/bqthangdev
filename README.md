@@ -6,7 +6,7 @@
 - 📫 How to reach me bqthang.dev@gmail.com
 - ⚡ Fun fact **I am passionate about coding but my English is very bad.**
 
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/winofwin292?label=Follow%20Me&style=social)](https://github.com/bqthangdev)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/bqthangdev?label=Follow%20Me&style=social)](https://github.com/bqthangdev)
 
 <br>
 
