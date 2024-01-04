@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Viet Nam</h3>
 
 - 👀 I’m interested in web applications
-- 🌱 I’m currently learning JavaScript, Python
+- 🌱 I’m currently learning JavaScript, .Net
 - 📫 How to reach me bqthang.dev@gmail.com
 - ⚡ Fun fact **I am passionate about coding but my English is very bad.**
 
