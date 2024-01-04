@@ -45,5 +45,5 @@
 <!-- Count Visitor -->
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/winofwin292/count.svg" />
+  <img src="https://profile-counter.glitch.me/bqthangdev/count.svg" />
 </p>
